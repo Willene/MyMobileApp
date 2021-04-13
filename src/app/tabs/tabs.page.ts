@@ -5,8 +5,7 @@ import { LoginPage } from '../login/login.page';
 
 @Component({
   selector: 'app-tabs',
-  templateUrl: 'tabs.page.html',
-  styleUrls: ['tabs.page.scss']
+  templateUrl: 'tabs.page.html'
 })
 export class TabsPage {
 
